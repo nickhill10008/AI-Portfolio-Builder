@@ -1,0 +1,5 @@
+{
+  "name": "AI Portfolio Builder",
+  "description": "An AI-powered application that collects your professional details, skills, and design preferences to automatically generate a personalized, ready-to-deploy portfolio website.",
+  "requestFramePermissions": []
+}
